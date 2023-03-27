@@ -1,3 +1,3 @@
-```javascript
-const greet = () => 'hello world!';
-```
+| 1 | 2 |
+| - | - |
+| A | B |
